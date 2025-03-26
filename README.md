@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi Nmeregini Johnhenry 👋
 
-<!--
-**chibuezej/chibuezej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (Frontend) 
+Passionate about creating seamless user experiences with modern frontend technologies like React and React native.
 
-Here are some ideas to get you started:
+I am committed to excellence and strive for pixel-perfect design and seamless functionality in every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies: Playing Games, and learning new frameworks.
+
+
+🚀 Technical Skills
+Figma HTML5 JavaScript TypeScript React Redux Next JS Firebase React-Native supabase
+
+CSS3 SASS TailwindCSS MUI Chakra-ui Ant-Design material-ui
+
+NodeJS Postman
+
