@@ -1,6 +1,8 @@
 
-
-# <img src="https://github.com/user-attachments/assets/34d1cf07-35c1-4be8-b773-f55c7688df50" alt="Profile Banner" width="100%" />
+<div align="center" width="100%">
+  
+![image](https://github.com/user-attachments/assets/6fe57461-bae3-4a3c-ac2f-987fdaf57728)
+</div>
 
 
 
@@ -18,9 +20,9 @@
 
 ### Frontend Engineer (Web & mobile) 
 
-•⁠  ⁠Passionate about creating seamless user experiences with modern frontend technologies.
-•⁠  ⁠I am committed to excellence and strive for pixel-perfect design and seamless functionality in every project.
-•⁠  ⁠As an active Open Source contributor, I learn from the community while building tools that benefit the broader tech ecosystem.
+•⁠  ⁠Passionate about creating seamless user experiences with modern frontend technologies. <br/>
+•⁠  ⁠I am committed to excellence and strive for pixel-perfect design and seamless functionality in every project. <br/>
+•⁠  ⁠As an active Open Source contributor, I learn from the community while building tools that benefit the broader tech ecosystem. <br/>
 •⁠  ⁠*Hobbies:* playing games and meeting new people.
 
 •⁠  ⁠📫 *How to reach me:* [Twitter](https://x.com/Merilesjohn) || [LinkedIn](https://www.linkedin.com/in/johnhenry-nmeregini-b01ba41b3/) || Email: johnhenrychibueze@gmail.com
